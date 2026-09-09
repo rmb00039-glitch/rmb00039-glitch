@@ -1,6 +1,6 @@
-# 🧬 Rafael Martínez Barbero | Researcher in Genomic Epidemiology & AMR
+# 🧬 Rafael Martínez Barbero | Researcher in Genomic Epidemiology, Viral Evolution, Host-Pathogen Interactions & Immunogenomics
 
-I am an **H-shaped researcher** bridging wet-lab molecular microbiology with scalable dry-lab computational workflows. My background combines hands-on laboratory experience with an **MSc in Bioinformatics and Biostatistics (UOC)**.
+I am a researcher bridging wet-lab molecular/cell biology with scalable dry-lab computational workflows. My background combines hands-on laboratory experience acquired through an **MSc in Biotechnology and Biomedicine (Biomedicine Track)** with an **MSc in Bioinformatics and Biostatistics (UOC)**.
 
 ---
 
@@ -10,12 +10,15 @@ I am an **H-shaped researcher** bridging wet-lab molecular microbiology with sca
 - **Pipelines & Environment:** Linux HPC, Docker, Bioconda, Shell Scripting (`Bash`)
 - **Languages & Frameworks:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`), R, HTML
 - **Statistics & Machine Learning:** Linear/Multivariate Models (PCA, MDS), KNN, Neural Networks, Supervised ML
-- **Computational Genomics: Use of online software and databases such as UCSC GenomeBrowser, ENSEMBL IGV, PDB, Expasy, MEME, JASPAR, GENED. 
+- **Computational Genomics & Databases:** UCSC Genome Browser, Ensembl, IGV, PDB, ExPASy, MEME, JASPAR, GeneCards, NCBI
 
-**Wet-Lab Repertoire**
-- **Biosafety:** BSL-2 / BSL-2+ containment & risk-group 2 pathogen processing
-- **Sequencing Prep:** HMW DNA/RNA Extraction (Qubit/TapeStation QC), Illumina & Oxford Nanopore Library Prep
-
+**Wet-Lab & Bioimaging Repertoire**
+- **Biosafety & Protocols:** BSL-2 / BSL-2+ containment, risk-group 2 pathogen handling, aseptic techniques & primary/immortalized cell culture
+- **Cell Biology & Assays:** Cell viability/cytotoxicity assays, transfection/transduction protocols, and immunofluorescence (IF) staining
+- **Bioimaging & Microscopy:** Epifluorescence and confocal microscopy, high-content imaging acquisition, and digital image quantification using ImageJ/Fiji and QuPath
+- **Nucleic Acid Extraction & QC:** High Molecular Weight (HMW) DNA/RNA extraction, fluorometric quantification (Qubit), and fragment integrity analysis (TapeStation / Bioanalyzer)
+- **Sequencing Library Preparation:** Short-read (Illumina) and long-read (Oxford Nanopore Technologies / ONT) library preparation & quality control
+- **Phenotypic & AMR Assays:** Broth Microdilution for Minimum Inhibitory Concentration (MIC) determination, Disk Diffusion assays following EUCAST / CLSI guidelines, and growth curve analysis
 
 ---
 
@@ -28,6 +31,7 @@ I am an **H-shaped researcher** bridging wet-lab molecular microbiology with sca
 - 📊 **[Analisis-multivariante](https://github.com/rmb00039-glitch/Analisis-multivariante):** Multivariate data analysis including Principal Component Analysis (PCA), Multidimensional Scaling (MDS), and Correspondence Analysis.
 - 🐍 **[Programacion-para-la-bioinformatica](https://github.com/rmb00039-glitch/Programacion-para-la-bioinformatica):** Core Python programming, data manipulation with NumPy, and biological data visualization using Matplotlib.
 - 📈 **[Regresion-modelos-y-metodos](https://github.com/rmb00039-glitch/Regresion-modelos-y-metodos):** Simple and multiple linear regression modeling, statistical inference, and model diagnostics.
+
 ---
 
 📫 **Get in Touch:**
