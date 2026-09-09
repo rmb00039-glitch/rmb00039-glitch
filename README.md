@@ -10,6 +10,7 @@ I am an **H-shaped researcher** bridging wet-lab molecular microbiology with sca
 - **Pipelines & Environment:** Linux HPC, Docker, Bioconda, Shell Scripting (`Bash`)
 - **Languages & Frameworks:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`), R, HTML
 - **Statistics & Machine Learning:** Linear/Multivariate Models (PCA, MDS), KNN, Neural Networks, Supervised ML
+- **Computational Genomics: Use of online software and databases such as UCSC GenomeBrowser, ENSEMBL IGV, PDB, Expasy, MEME, JASPAR, GENED. 
 
 **Wet-Lab Repertoire**
 - **Biosafety:** BSL-2 / BSL-2+ containment & risk-group 2 pathogen processing
@@ -21,12 +22,12 @@ I am an **H-shaped researcher** bridging wet-lab molecular microbiology with sca
 ### 📚 Featured Master's Repositories (UOC)
 
 - 🎓 **[C-digo-TFM-Rafael-Mart-nez-Barbero](https://github.com/rmb00039-glitch/C-digo-TFM-Rafael-Mart-nez-Barbero):** Source code and HTML report for the Master's Thesis (MSc in Bioinformatics and Biostatistics, UOC).
+- 🧬 **[Analisis-de-datos-omicos](https://github.com/rmb00039-glitch/Analisis-de-datos-omicos):** Comprehensive omics data workflows including S4 `SummarizedExperiment` object management, differential expression analysis in RNA-Seq using `edgeR`, and exome Variant Calling using the Galaxy platform.
 - 🤖 **[Machine-learning](https://github.com/rmb00039-glitch/Machine-learning):** Implementation of supervised algorithms, K-Nearest Neighbors (KNN), and Artificial Neural Networks (ANN) applied to biological datasets.
 - 🐧 **[Herramientas-informaticas-para-la-bioinformatica](https://github.com/rmb00039-glitch/Herramientas-informaticas-para-la-bioinformatica):** Linux command-line data processing, containerization using Docker, and environment management with Bioconda.
 - 📊 **[Analisis-multivariante](https://github.com/rmb00039-glitch/Analisis-multivariante):** Multivariate data analysis including Principal Component Analysis (PCA), Multidimensional Scaling (MDS), and Correspondence Analysis.
-- 🐍 **[Programacion-para-la-bioinformatica](https://github.com/rmb00039-glitch/Programacion-para-la-bioinformatica):** Core Python programming, data manipulation with NumPy, biological data visualization using Matplotlib and dep learning applications using Scikit Learn.
+- 🐍 **[Programacion-para-la-bioinformatica](https://github.com/rmb00039-glitch/Programacion-para-la-bioinformatica):** Core Python programming, data manipulation with NumPy, and biological data visualization using Matplotlib.
 - 📈 **[Regresion-modelos-y-metodos](https://github.com/rmb00039-glitch/Regresion-modelos-y-metodos):** Simple and multiple linear regression modeling, statistical inference, and model diagnostics.
-
 ---
 
 📫 **Get in Touch:**
