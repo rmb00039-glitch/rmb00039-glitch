@@ -4,7 +4,7 @@ I am a researcher bridging wet-lab molecular/cell biology with scalable dry-lab 
 
 ---
 
-### 🛠️ Technical Stack & Skills
+###  Technical Stack & Skills
 
 **Bioinformatics & Data Science**
 - **Pipelines & Environment:** Linux HPC, Docker, Bioconda, Shell Scripting (`Bash`)
