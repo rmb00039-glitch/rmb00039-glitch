@@ -1,6 +1,6 @@
 #  Rafael Martínez Barbero | Researcher in Virus Genimcs, Computational Epidemiology, Viral Evolution, Host-Pathogen Interactions and Immunogenomics.
 
-I am a researcher bridging wet-lab molecular/cell biology with scalable dry-lab computational workflows. My background combines hands-on laboratory experience acquired through an **MSc in Biotechnology and Biomedicine (Biomedicine Track)** with an **MSc in Bioinformatics and Biostatistics (UOC)**.
+I am a researcher bridging wet-lab molecular/cell biology with scalable dry-lab computational workflows. My background combines hands-on laboratory experience acquired through an **MSc in Biotechnology and Biomedicine (UJA)** with an **MSc in Bioinformatics and Biostatistics (UB/UOC)**.
 
 ---
 
